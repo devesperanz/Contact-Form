@@ -4,6 +4,6 @@
   box-sizing: border-box;
 }
 
-@import './style/output.css';
+@import './style/home.css';
 @import './style/nav.css';
 @import './style/form.css';

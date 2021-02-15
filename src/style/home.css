@@ -16,3 +16,10 @@
   padding-top: 20px;
   margin: 0 auto;
 }
+.close {
+  border: none;
+  background: transparent;
+  outline: none;
+  font-size: 25px;
+  font-weight: bold;
+}
